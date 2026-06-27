@@ -1,0 +1,12 @@
+{
+  "legal": {
+    "dominant": 62,
+    "tau0.3": 63,
+    "tau0.5": 66
+  },
+  "oncology": {
+    "dominant": 105,
+    "tau0.3": 98,
+    "tau0.5": 98
+  }
+}

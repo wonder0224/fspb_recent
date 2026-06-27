@@ -1,0 +1,32 @@
+{
+  "legal": {
+    "N": 508,
+    "K": 63,
+    "c": 7.01,
+    "unique": 481,
+    "unique_pct": 94.7,
+    "collision_pct": 0.052,
+    "zero": 9,
+    "active_mean": 9.8
+  },
+  "oncology": {
+    "N": 4629,
+    "K": 105,
+    "c": 8.62,
+    "unique": 4550,
+    "unique_pct": 98.3,
+    "collision_pct": 0.001,
+    "zero": 1,
+    "active_mean": 11.4
+  },
+  "diverse": {
+    "N": 2327,
+    "K": 101,
+    "c": 9.03,
+    "unique": 2264,
+    "unique_pct": 97.3,
+    "collision_pct": 0.003,
+    "zero": 4,
+    "active_mean": 11.5
+  }
+}

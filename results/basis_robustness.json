@@ -1,0 +1,86 @@
+{
+  "legal": {
+    "n_tokens": 508,
+    "domain_basis_size": 14,
+    "fixed_basis_size": 26,
+    "domain_active": [
+      "noun.act",
+      "noun.communication",
+      "noun.event",
+      "noun.group",
+      "noun.person",
+      "noun.state",
+      "noun.substance"
+    ],
+    "fixed_active": [
+      "noun.act",
+      "noun.communication",
+      "noun.event",
+      "noun.group",
+      "noun.person",
+      "noun.state",
+      "noun.substance"
+    ],
+    "categories_added_by_fixing": [],
+    "agreement_domain_basis": {
+      "mean": 0.705,
+      "sd": 0.022
+    },
+    "agreement_fixed_basis": {
+      "mean": 0.705,
+      "sd": 0.022
+    },
+    "feature_counts_per_seed": [
+      31,
+      39,
+      37,
+      40,
+      40
+    ]
+  },
+  "oncology": {
+    "n_tokens": 4629,
+    "domain_basis_size": 16,
+    "fixed_basis_size": 26,
+    "domain_active": [
+      "noun.act",
+      "noun.artifact",
+      "noun.attribute",
+      "noun.body",
+      "noun.cognition",
+      "noun.communication",
+      "noun.group",
+      "noun.process",
+      "noun.state",
+      "noun.substance"
+    ],
+    "fixed_active": [
+      "noun.act",
+      "noun.artifact",
+      "noun.attribute",
+      "noun.body",
+      "noun.cognition",
+      "noun.communication",
+      "noun.group",
+      "noun.process",
+      "noun.state",
+      "noun.substance"
+    ],
+    "categories_added_by_fixing": [],
+    "agreement_domain_basis": {
+      "mean": 0.579,
+      "sd": 0.03
+    },
+    "agreement_fixed_basis": {
+      "mean": 0.579,
+      "sd": 0.03
+    },
+    "feature_counts_per_seed": [
+      40,
+      40,
+      40,
+      40,
+      40
+    ]
+  }
+}

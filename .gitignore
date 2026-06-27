@@ -1,0 +1,6 @@
+# Large embedding matrices are archived at Zenodo, not in Git
+embeddings/*.npy
+venv/
+__pycache__/
+*.pyc
+.DS_Store
